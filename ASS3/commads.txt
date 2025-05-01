@@ -1,0 +1,4 @@
+msmpi.dll
+mpiexec
+pip install mpi4py
+mpiexec -n 4 python arr_sum.py
